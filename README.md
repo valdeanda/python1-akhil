@@ -1,9 +1,9 @@
 # Description
-> Instructor Akhil Yarlagadda
-> Email: yar[dot]akhil2023[at]gmail[dot]com
-> Jordan High School
-> Host: Valere De Anda 
-> The University of Texas at Austin 
+> -Instructor Akhil Yarlagadda
+> -Email: yar[dot]akhil2023[at]gmail[dot]com
+> -Jordan High School
+> -Host: Valere De Anda 
+> -The University of Texas at Austin 
 
 # Workshop Description
 This is a python course intended for complete beginners to the world of coding. This course will take participants from installing an IDE to learning about variables, for-loops, file-reading, and more to become a coding amateur.
