@@ -43,8 +43,7 @@ Start Time: May 16, 2022 03:37 PM
 - Project: Add to the substrings project
 
 Start Time: May 17, 2022 03:40 PM
-[Meeting Recording]
-(https://utexas.zoom.us/rec/share/TwCXYAkq1eqB7AJYBC6il7S2-TeAcISAug_XRgAD9OPJcy1v5LXyvGz2kSuZhYVJ.yGuuOnd5Ut7QIXAR)
+[Meeting Recording](https://utexas.zoom.us/rec/share/TwCXYAkq1eqB7AJYBC6il7S2-TeAcISAug_XRgAD9OPJcy1v5LXyvGz2kSuZhYVJ.yGuuOnd5Ut7QIXAR)
 
 ### `Class 3:`
 
@@ -63,7 +62,7 @@ Start Time: May 17, 2022 03:40 PM
 
 
 Start Time: May 18, 2022 03:43 PM
-[Meeting Recording](https://utexas.zoom.us/rec/share/QUbUWAFYznwV9u4pukifjFDvfe_zYLHou5LYaM0MNnif_P7GoOPzakDjYHmlpq5S.iFM-cu0P6ub68RTR)
+[Meeting Recording(https://utexas.zoom.us/rec/share/QUbUWAFYznwV9u4pukifjFDvfe_zYLHou5LYaM0MNnif_P7GoOPzakDjYHmlpq5S.iFM-cu0P6ub68RTR)
 
 ### `Class 4:`
 
