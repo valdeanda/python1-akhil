@@ -1,15 +1,15 @@
 # Description
-> -Instructor Akhil Yarlagadda
-> -Email: yar[dot]akhil2023[at]gmail[dot]com
-> -Jordan High School
-> -Host: Valere De Anda 
-> -The University of Texas at Austin 
+-Instructor Akhil Yarlagadda
+-Email: yar[dot]akhil2023[at]gmail[dot]com
+-Jordan High School
+-Host: Valere De Anda 
+-The University of Texas at Austin 
 
 # Workshop Description
-This is a python course intended for complete beginners to the world of coding. This course will take participants from installing an IDE to learning about variables, for-loops, file-reading, and more to become a coding amateur.
+> This is a python course intended for complete beginners to the world of coding. This course will take participants from installing an IDE to learning ?about variables, for-loops, file-reading, and more to become a coding amateur.
 
 # Instructor’s Bio
-Akhil Yarlagadda is a junior currently attending Jordan High School. He has been coding ever since he was 10 and since then he has competed in various coding competitions and hackathons. He is very interested in learning about new technologies and exploring new possibilities through the use of coding.
+> Akhil Yarlagadda is a junior currently attending Jordan High School. He has been coding ever since he was 10 and since then he has competed in various coding competitions and hackathons. He is very interested in learning about new technologies and exploring new possibilities through the use of coding.
 
 ### `Class 1:`
 
@@ -19,6 +19,7 @@ Akhil Yarlagadda is a junior currently attending Jordan High School. He has been
 -Project: Mad-Libs Game
 
 ### `Class 2:`
+
 -Input
 -Variable Conversions
 -Project: Adding to the Mad-Libs Game
@@ -30,6 +31,7 @@ Akhil Yarlagadda is a junior currently attending Jordan High School. He has been
 -Project: Add to the substrings project
 
 ### `Class 3:`
+
 -Four Types of Arrays:
 -Lists
 -Project: Mad-Libs Reorganization
@@ -44,6 +46,7 @@ Akhil Yarlagadda is a junior currently attending Jordan High School. He has been
 -Project: Fibonacci Numbers
 
 ### `Class 4:`
+
 -While loops
 -Project: Bank Accounts
 -Functions
@@ -54,6 +57,7 @@ Akhil Yarlagadda is a junior currently attending Jordan High School. He has been
 -Project: Specific Class
 
 ### `Class 5:`
+
 -Variable Scope
 -File-Writing
 -Project: Number Crunching
