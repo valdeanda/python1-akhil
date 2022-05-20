@@ -1,4 +1,9 @@
+# Registration
+
+[Link to register)[https://utexas.zoom.us/meeting/register/tJIrcOquqDgiGdZX9o4UFf8Vkv_IwndSNRvS]
+
 # Description
+
 -Instructor Akhil Yarlagadda
 -Email: yar[dot]akhil2023[at]gmail[dot]com
 -Jordan High School
