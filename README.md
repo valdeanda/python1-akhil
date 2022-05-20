@@ -1,6 +1,6 @@
 # Registration
 
-[Link to register)[https://utexas.zoom.us/meeting/register/tJIrcOquqDgiGdZX9o4UFf8Vkv_IwndSNRvS]
+[Link to register](https://utexas.zoom.us/meeting/register/tJIrcOquqDgiGdZX9o4UFf8Vkv_IwndSNRvS)
 
 # Description
 
