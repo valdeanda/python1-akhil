@@ -26,7 +26,7 @@
 - Variables
 - Project: Mad-Libs Game
 
-Start Time: May 16, 2022 03:37 PM
+Start Time: May 16, 2022
 
 [Meeting Recording](https://utexas.zoom.us/rec/share/OydLO1fYSNwdARb4gqag1pqNf6u93vaQKWWeBMJaSjRtm_fgG_-NcmKDA4JBMKAz.1wBA3MgHf6Le5d1Z)
 
@@ -42,7 +42,8 @@ Start Time: May 16, 2022 03:37 PM
 - Try-and-Except blocks
 - Project: Add to the substrings project
 
-Start Time: May 17, 2022 03:40 PM
+Start Time: May 17, 2022
+
 [Meeting Recording](https://utexas.zoom.us/rec/share/TwCXYAkq1eqB7AJYBC6il7S2-TeAcISAug_XRgAD9OPJcy1v5LXyvGz2kSuZhYVJ.yGuuOnd5Ut7QIXAR)
 
 ### `Class 3:`
@@ -61,7 +62,8 @@ Start Time: May 17, 2022 03:40 PM
 - Project: Fibonacci Numbers
 
 
-Start Time: May 18, 2022 03:43 PM
+Start Time: May 18, 2022
+
 [Meeting Recording(https://utexas.zoom.us/rec/share/QUbUWAFYznwV9u4pukifjFDvfe_zYLHou5LYaM0MNnif_P7GoOPzakDjYHmlpq5S.iFM-cu0P6ub68RTR)
 
 ### `Class 4:`
@@ -75,7 +77,8 @@ Start Time: May 18, 2022 03:43 PM
 - Inherited Classes
 - Project: Specific Class
 
-Date: May 19, 2022 03:44 PM Central Time (US and Canada)
+Date: May 19, 2022
+
 [Meeting Recording](https://utexas.zoom.us/rec/share/OS41ggQ1-zysYAHWagcf6qoc3PQTZ3vKkOOFTdQUbWJ7tmKUkXuQSOb0YXW_PLs.k7WN-Tw4pfLWD-Sd)
 
 
@@ -89,4 +92,4 @@ Date: May 19, 2022 03:44 PM Central Time (US and Canada)
 - How to lookup modules
 - How to continue the Python journey
 
-If you enjoyed the workshop please take a moment to fill out this [brief questionnarie](https://docs.google.com/forms/d/1C9aj3FoRJOB1eHBSb3M6lhfP7IRi-sB47GNPEnh8P8g/edit?ts=62855f8b)
+**If you enjoyed the workshop please take a moment to fill out this**  [brief questionnarie](https://docs.google.com/forms/d/1C9aj3FoRJOB1eHBSb3M6lhfP7IRi-sB47GNPEnh8P8g/edit?ts=62855f8b)
