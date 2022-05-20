@@ -11,6 +11,8 @@
 # Instructor’s Bio
 > Akhil Yarlagadda is a junior currently attending Jordan High School. He has been coding ever since he was 10 and since then he has competed in various coding competitions and hackathons. He is very interested in learning about new technologies and exploring new possibilities through the use of coding.
 
+# Workshop Content 
+
 ### `Class 1:`
 
 -Setting up IDE
