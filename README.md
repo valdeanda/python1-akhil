@@ -64,7 +64,7 @@ Start Time: May 17, 2022
 
 Start Time: May 18, 2022
 
-[Meeting Recording(https://utexas.zoom.us/rec/share/QUbUWAFYznwV9u4pukifjFDvfe_zYLHou5LYaM0MNnif_P7GoOPzakDjYHmlpq5S.iFM-cu0P6ub68RTR)
+[Meeting Recording](https://utexas.zoom.us/rec/share/QUbUWAFYznwV9u4pukifjFDvfe_zYLHou5LYaM0MNnif_P7GoOPzakDjYHmlpq5S.iFM-cu0P6ub68RTR)
 
 ### `Class 4:`
 
