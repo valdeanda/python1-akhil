@@ -92,4 +92,9 @@ Date: May 19, 2022
 - How to lookup modules
 - How to continue the Python journey
 
+Topic: Python Workshop for beginners
+Start Time: May 20, 2022 03:52 PM
+
+[Meeting Recording](https://utexas.zoom.us/rec/share/TKtDnf-poghtfD3F1eR0PERAmPWmmTFVR9ZVS32Q2CJJE44xhLePWxAzW_JvdZCF.xP2v89s7ToZZA_7c)
+
 **If you enjoyed the workshop please take a moment to fill out this**  [brief questionnarie](https://docs.google.com/forms/d/1C9aj3FoRJOB1eHBSb3M6lhfP7IRi-sB47GNPEnh8P8g/edit?ts=62855f8b)
